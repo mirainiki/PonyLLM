@@ -1,7 +1,9 @@
 # PonyLLM
+<img width="208" alt="Sponsored by Connamara" src="https://i.ibb.co/rLrJdv9/Pink-and-Purple-Gradient-Tech-Abstract-Logo-13.webp">
 
 **PonyLLM** is a repository-native reasoning model built for software architecture analysis, codebase comprehension, and execution tracing.
-https://i.ibb.co/rLrJdv9/Pink-and-Purple-Gradient-Tech-Abstract-Logo-13.webp
+
+
 ## Vision
 
 PonyLLM helps developers understand unfamiliar repositories by reconstructing architecture, identifying execution paths, mapping dependencies, and explaining design decisions.
