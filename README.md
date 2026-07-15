@@ -10,7 +10,7 @@ PonyLLM helps developers understand unfamiliar repositories by reconstructing ar
 
 ### Features
 
-- Repository-level reasoning
+- Repository-level reasoning 
 - Architecture & dependency mapping
 - Entry-point and execution flow tracing
 - Multi-file code comprehension
